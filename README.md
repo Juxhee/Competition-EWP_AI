@@ -8,32 +8,32 @@ https://ewp.co.kr/popup/20201211/popup.asp
 - SCR에서 공급하는 암모니아량은 SCR출구 측, 굴뚝의 Nox량과 암모니아 slip에 의해 결정됨
 - 주어진 운전 데이터로 이러한 값들을 예측하는 모델을 만들고자 함
 </br>
-<img src="https://user-images.githubusercontent.com/60679596/163787682-3c0658a2-82e3-47ff-b062-2a4795db5845.png" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/60679596/163787682-3c0658a2-82e3-47ff-b062-2a4795db5845.png" width="800" height="350">
 
 - 데이터셋 : two pass type 센서에서 측정된 시계열 데이터
 
 #### 1. 계량 과제
 - 50분 치 시계열 데이터를 입력으로 받아 그 다음 10분 치의 5개 y값 예측하는 모델 구축
 
-<img src="https://user-images.githubusercontent.com/60679596/163787193-45ca63e3-e9e8-405d-bd3f-7039c630133a.png" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/60679596/163787193-45ca63e3-e9e8-405d-bd3f-7039c630133a.png" width="800" height="300">
 
 
 #### 2. 비계량 과제
 - Nox량과 암모니아 slip을 최소화하는 최적의 암모니아 투입량을 산출하는 알고리즘 구축
 
-<img src="https://user-images.githubusercontent.com/60679596/163787897-5bd6e543-5035-40ef-b90a-df8cb6871529.png" width="800" height="450">
+<img src="https://user-images.githubusercontent.com/60679596/163787897-5bd6e543-5035-40ef-b90a-df8cb6871529.png" width="800" height="350">
 
-<img src="https://user-images.githubusercontent.com/60679596/163788023-0dfb3166-6392-470d-9ba6-715aeda338e5.png" width="800" height="450">
+<img src="https://user-images.githubusercontent.com/60679596/163788023-0dfb3166-6392-470d-9ba6-715aeda338e5.png" width="800" height="400">
 
 - framework
 
-<img src="https://user-images.githubusercontent.com/60679596/163788257-b0da3a50-171a-4d23-afa8-5361f5b330d8.png" width="800" height="450">
+<img src="https://user-images.githubusercontent.com/60679596/163788257-b0da3a50-171a-4d23-afa8-5361f5b330d8.png" width="800" height="400">
 
-<img src="https://user-images.githubusercontent.com/60679596/163788350-933e4e34-ba6b-4ac3-aed7-6d9b026e5ebd.png" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/60679596/163788350-933e4e34-ba6b-4ac3-aed7-6d9b026e5ebd.png" width="800" height="300">
 
 - 모델링 결과
 
-<img src="https://user-images.githubusercontent.com/60679596/163788490-656f5317-433a-40f1-886e-a56f6bc94f40.png" width="800" height="500">
+<img src="https://user-images.githubusercontent.com/60679596/163788490-656f5317-433a-40f1-886e-a56f6bc94f40.png" width="800" height="400">
 
 
 
