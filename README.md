@@ -28,13 +28,18 @@ https://ewp.co.kr/popup/20201211/popup.asp
 
 </br>
 
-## How to use
+## Train
 
 `python stage1_main.py`
 
 </br>
-</br>
 
+## Test
+
+`python stage1_test.py`
+
+</br>
+</br>
 
 ## Task 2
 #### Nox량과 암모니아 slip을 최소화하는 최적의 암모니아 투입량을 산출하는 알고리즘 구축
