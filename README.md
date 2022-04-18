@@ -31,13 +31,14 @@ https://ewp.co.kr/popup/20201211/popup.asp
 
 ## How to use
 
-```python
-python stage1_main.py 
-```
+`python stage1_main.py`
 
+</br>
 
 ## Task 2
 #### Nox량과 암모니아 slip을 최소화하는 최적의 암모니아 투입량을 산출하는 알고리즘 구축
+
+`python stage2_main.py`
 
 </br>
 
