@@ -10,7 +10,7 @@ https://ewp.co.kr/popup/20201211/popup.asp
 </br>
 <img src="https://user-images.githubusercontent.com/60679596/163787682-3c0658a2-82e3-47ff-b062-2a4795db5845.png" width="600" height="200">
 
-- 데이터셋은 two pass type 센서에서 측정된 시계열 데이터이며, 보안상 비공개됨
+- 데이터셋은 two pass type 센서에서 측정된 시계열 데이터이며, 보안상 외부 공개 불가능
 
 </br>
 </br>
