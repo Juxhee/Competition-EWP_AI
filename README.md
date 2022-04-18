@@ -21,7 +21,7 @@ https://ewp.co.kr/popup/20201211/popup.asp
 #### 2. 비계량 과제
 - Nox량과 암모니아 slip을 최소화하는 최적의 암모니아 투입량을 산출하는 알고리즘 구축
 
-<img src="https://user-images.githubusercontent.com/60679596/163787897-5bd6e543-5035-40ef-b90a-df8cb6871529.png" width="700" height="250">
+<img src="https://user-images.githubusercontent.com/60679596/163788884-d145fdb5-b61f-4b39-84f3-6fed0cf39b82.png" width="700" height="250">
 
 <img src="https://user-images.githubusercontent.com/60679596/163788023-0dfb3166-6392-470d-9ba6-715aeda338e5.png" width="700" height="300">
 
