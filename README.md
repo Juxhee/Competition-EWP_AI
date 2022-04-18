@@ -2,7 +2,7 @@
 
 https://ewp.co.kr/popup/20201211/popup.asp
 
-### Task : 미반응 암모니아 최소화를 위한 SCR 출구측, 굴뚝 Nox량 등 예측
+## Task : 미반응 암모니아 최소화를 위한 SCR 출구측, 굴뚝 Nox량 등 예측
 
 - 석탄 연소 시 Nox, Sox 발생하는데, 이 중 Nox량을 기준량 이하로 배출하기 위해 SCR에서 암모니아 공급
 - SCR에서 공급하는 암모니아량은 SCR출구 측, 굴뚝의 Nox량과 암모니아 slip에 의해 결정됨
@@ -15,8 +15,10 @@ https://ewp.co.kr/popup/20201211/popup.asp
 </br>
 </br>
 
-### 1. 계량 과제
+## 1. 계량 과제
 - 50분 치 시계열 데이터를 입력으로 받아 그 다음 10분 치의 5개 y값 예측하는 모델 구축
+
+`model.py`
 
 </br>
 
@@ -27,7 +29,14 @@ https://ewp.co.kr/popup/20201211/popup.asp
 </br>
 </br>
 
-### 2. 비계량 과제
+## How to use
+
+```python
+python stage1_main.py 
+```
+
+
+## 2. 비계량 과제
 - Nox량과 암모니아 slip을 최소화하는 최적의 암모니아 투입량을 산출하는 알고리즘 구축
 
 </br>
