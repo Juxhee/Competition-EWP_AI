@@ -38,8 +38,6 @@ https://ewp.co.kr/popup/20201211/popup.asp
 ## Task 2
 #### Nox량과 암모니아 slip을 최소화하는 최적의 암모니아 투입량을 산출하는 알고리즘 구축
 
-`python stage2_main.py`
-
 </br>
 
 <img src="https://user-images.githubusercontent.com/60679596/163788884-d145fdb5-b61f-4b39-84f3-6fed0cf39b82.png" width="700" height="250">
@@ -58,6 +56,9 @@ https://ewp.co.kr/popup/20201211/popup.asp
 
 <img src="https://user-images.githubusercontent.com/60679596/163788490-656f5317-433a-40f1-886e-a56f6bc94f40.png" width="700" height="300">
 
+</br>
 
+## How to use
 
+`python stage2_main.py`
 
